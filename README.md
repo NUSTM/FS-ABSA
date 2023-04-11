@@ -7,13 +7,14 @@
   - [Run FS-ABSA](#run-fs-absa)
     - [Fully-supervised Setting](#fully-supervised-setting)
     - [Non-English Low-resource Setting](#non-english-low-resource-setting)
-    - [Ablation Study](#ablation-study)
+  - [Main Results](#main-results)
+  - [Ablation Study](#ablation-study)
   - [Any Question?](#any-questions)
   - [Citation](#citation) 
 
 ## Overview
 
-![](./picture/framework.png)
+<div align=center><img width="936" alt="image" src="https://user-images.githubusercontent.com/84706021/231090090-1cd20863-467b-44cd-8717-e6585d3c24b5.png" width="80%"></div>
 
 In this work, we introduce a simple yet effective framework called **FS-ABSA**, which involves domain-adaptive pre-training and textinfilling fine-tuning.
 Specifically, 
@@ -37,26 +38,54 @@ pip install -r requirements.txt
 ### Fully-supervised Setting
 
 ```
-## Dataset: 14lap (English)
+## English Dataset: 14lap
 $ bash script/run_aspe_14lap.sh
 
-## Dataset: 14res (English)
+## English Dataset: 14res
 $ bash script/run_aspe_14res.sh
-```
 
-### Non-English Low-resource Setting
-
-```
-## Dataset: 16res (Dutch)
+## Dutch Dataset: 16res
 $ bash script/run_aspe_dutch.sh
 
-## Dataset: 16res (French)
+## French Dataset: 16res
 $ bash script/run_aspe_french.sh
 ```
 
-### Ablation Study
+### Few-Shot Setting
 
-![](./picture/ablation.png)
+```
+## English Dataset: 14lap
+$ bash script/run_aspe_fewshot_14lap.sh
+
+## English Dataset: 14res
+$ bash script/run_aspe_fewshot_14res.sh
+
+## Dutch Dataset: 16res
+$ bash script/run_aspe_fewshot_dutch.sh
+
+## French Dataset: 16res
+$ bash script/run_aspe_fewshot_french.sh
+```
+
+
+## Main Results
+
+### Results on 14-Lap and 14-Res under different training data size scenarios
+
+<div align=center><img width="799" alt="image" src="https://user-images.githubusercontent.com/84706021/231090977-dfca504b-0524-4801-9841-4e894edc3649.png" width="80%"></div>
+
+### Comparison with SOTA under the full data setting
+
+<div align=center><img width="646" alt="image" src="https://user-images.githubusercontent.com/84706021/231092372-17714139-7337-4392-b823-9f02face4abf.png">
+
+
+### Results in two low-resource languages under different training data sizes
+<div align=center><img width="804" alt="image" src="https://user-images.githubusercontent.com/84706021/231091364-43d93815-ca84-485e-adf6-4ba67f662d96.png" width="80%"></div>
+
+
+## Ablation Study
+
+<div align=center><img width="936" alt="image" src="https://user-images.githubusercontent.com/84706021/231090090-1cd20863-467b-44cd-8717-e6585d3c24b5.png" width="80%"></div>
 
 ## Citation
 
