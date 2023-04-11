@@ -70,18 +70,19 @@ $ bash script/run_aspe_fewshot_french.sh
 
 ## Main Results
 
-### Results on 14-Lap and 14-Res under different training data size scenarios
+Results on 14-Lap and 14-Res under different training data size scenarios
 
 <div align=center><img width="799" alt="image" src="https://user-images.githubusercontent.com/84706021/231090977-dfca504b-0524-4801-9841-4e894edc3649.png" width="80%"></div>
 
-### Comparison with SOTA under the full data setting
+Comparison with SOTA under the full data setting
 
 <div align=center><img width="646" alt="image" src="https://user-images.githubusercontent.com/84706021/231092372-17714139-7337-4392-b823-9f02face4abf.png">
 
   
-### Results in two low-resource languages under different training data sizes
+Results in two low-resource languages under different training data sizes
 
 <div align=center><img width="804" alt="image" src="https://user-images.githubusercontent.com/84706021/231091364-43d93815-ca84-485e-adf6-4ba67f662d96.png" width="80%"></div>
+
 
 
 ## Ablation Study
