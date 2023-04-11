@@ -4,7 +4,7 @@ TASK_NAME='ASPE'
 
 for OUTPUT_TYPE in 'span'
 do
-    for data in '16res'
+    for data in '16res_dutch'
     do
         for seed in 29 42 757
         do
