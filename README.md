@@ -14,7 +14,7 @@
 
 ## Overview
 
-<div align=center><img width="936" alt="image" src="https://user-images.githubusercontent.com/84706021/231090090-1cd20863-467b-44cd-8717-e6585d3c24b5.png" width="80%"></div>
+<div align=center><img width="936" alt="image" src="https://user-images.githubusercontent.com/84706021/231090090-1cd20863-467b-44cd-8717-e6585d3c24b5.png" width="40%"></div>
 
 In this work, we introduce a simple yet effective framework called **FS-ABSA**, which involves domain-adaptive pre-training and textinfilling fine-tuning.
 Specifically, 
@@ -86,7 +86,8 @@ $ bash script/run_aspe_fewshot_french.sh
 
 ## Ablation Study
 
-<div align=center><img width="936" alt="image" src="https://user-images.githubusercontent.com/84706021/231090090-1cd20863-467b-44cd-8717-e6585d3c24b5.png" width="80%"></div>
+<div align=center><img width="799" alt="image" src="https://user-images.githubusercontent.com/84706021/231097628-81d6f869-f9f8-4ba9-8f96-8c63108a3237.png"width="80%"></div>
+
 
 ## Citation
 
