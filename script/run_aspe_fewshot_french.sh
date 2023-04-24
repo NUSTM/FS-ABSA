@@ -3,7 +3,7 @@
 # if use_x_shot=128, seed and few_shot_data are chosen from [26, 27, 28]
 # if use_x_shot=512, seed and few_shot_data are chosen from [7, 8, 9]
 
-PLM_DIR='/root/data1/ABSA-Pretraining/outputs/20230210##170350/Global-4500/'
+PLM_DIR='NUSTM/french-restaurant-mt5-small'
 
 TASK_NAME='ASPE'
 
