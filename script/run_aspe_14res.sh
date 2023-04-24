@@ -1,5 +1,5 @@
 # 14res
-PLM_DIR='/root/data1/ABSA-Pretraining/outputs/20230116##090716/Global-500/'
+PLM_DIR='NUSTM/restaurant-t5-base'
 
 TASK_NAME='ASPE'
 
