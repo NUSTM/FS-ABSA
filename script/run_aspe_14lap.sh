@@ -1,5 +1,5 @@
 # 14lap
-PLM_DIR='/root/data1/ABSA-Pretraining/outputs/20230125##014034/Global-800/'
+PLM_DIR='NUSTM/laptop-t5-base'
 
 TASK_NAME='ASPE'
 
