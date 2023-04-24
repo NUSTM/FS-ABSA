@@ -1,4 +1,4 @@
-PLM_DIR='/root/data1/ABSA-Pretraining/outputs/20230210##170350/Global-4500/'
+PLM_DIR='NUSTM/french-restaurant-mt5-small'
 
 TASK_NAME='ASPE'
 
