@@ -12,7 +12,9 @@
   - [Any Question?](#any-questions)
   - [Citation](#citation) 
   
-*******************Updates
+******************Updates******************
+
+- 2023/4/24: We upload the domain-adaptive pre-training models ([restaurant-t5-base](https://huggingface.co/NUSTM/restaurant-t5-base), [laptop-t5-base](https://huggingface.co/NUSTM/laptop-t5-base), [dutch-restaurant-mt5-small](https://huggingface.co/NUSTM/dutch-restaurant-mt5-small) and [french-restaurant-mt5-small](https://huggingface.co/NUSTM/french-restaurant-mt5-small)) to huggingface.
 
 
 
