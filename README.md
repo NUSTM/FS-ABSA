@@ -11,6 +11,12 @@
   - [Ablation Study](#ablation-study)
   - [Any Question?](#any-questions)
   - [Citation](#citation) 
+  
+*******************Updates
+
+
+
+  
 
 ## Overview
 
@@ -94,10 +100,26 @@ Results in two low-resource languages under different training data sizes
 
 ## Citation
 
+If you find this work helpful, please cite our paper as follows:
+
+```
+@inproceedings{wang2023fs-absa,
+    author = {Wang, Zengzhi and Xie, Qiming and Xia, Rui},
+    title = {A Simple yet Effective Framework for Few-Shot Aspect-Based Sentiment Analysis},
+    year = {2023},
+    isbn = {9781450394086},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3539618.3591940},
+    doi = {10.1145/3539618.3591940},
+    booktitle = {Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+    numpages = {6},
+    location = {Taipei, Taiwan},
+    series = {SIGIR '23}
+}
 ```
 
-
-```
+Note that the complete citation format will be announced once our paper is published in the SIGIR 2023 conference proceedings.
 
 ## Any Questions?
 
