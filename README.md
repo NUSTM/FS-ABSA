@@ -105,23 +105,25 @@ Results in two low-resource languages under different training data sizes
 If you find this work helpful, please cite our paper as follows:
 
 ```
-@inproceedings{wang2023fs-absa,
-    author = {Wang, Zengzhi and Xie, Qiming and Xia, Rui},
-    title = {A Simple yet Effective Framework for Few-Shot Aspect-Based Sentiment Analysis},
-    year = {2023},
-    isbn = {9781450394086},
-    publisher = {Association for Computing Machinery},
-    address = {New York, NY, USA},
-    url = {https://doi.org/10.1145/3539618.3591940},
-    doi = {10.1145/3539618.3591940},
-    booktitle = {Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval},
-    numpages = {6},
-    location = {Taipei, Taiwan},
-    series = {SIGIR '23}
+@inproceedings{10.1145/3539618.3591940,
+author = {Wang, Zengzhi and Xie, Qiming and Xia, Rui},
+title = {A Simple yet Effective Framework for Few-Shot Aspect-Based Sentiment Analysis},
+year = {2023},
+isbn = {9781450394086},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3539618.3591940},
+doi = {10.1145/3539618.3591940},
+abstract = {The pre-training and fine-tuning paradigm has become the main-stream framework in the field of Aspect-Based Sentiment Analysis (ABSA). Although it has achieved sound performance in the domains containing enough fine-grained aspect-sentiment annotations, it is still challenging to conduct few-shot ABSA in domains where manual annotations are scarce. In this work, we argue that two kinds of gaps, i.e., domain gap and objective gap, hinder the transfer of knowledge from pre-training language models (PLMs) to ABSA tasks. To address this issue, we introduce a simple yet effective framework called FS-ABSA, which involves domain-adaptive pre-training and text-infilling fine-tuning. We approach the End-to-End ABSA task as a text-infilling problem and perform domain-adaptive pre-training with the text-infilling objective, narrowing the two gaps and consequently facilitating the knowledge transfer. Experiments show that the resulting model achieves more compelling performance than baselines under the few-shot setting while driving the state-of-the-art performance to a new level across datasets under the fully-supervised setting. Moreover, we apply our framework to two non-English low-resource languages to demonstrate its generality and effectiveness.},
+booktitle = {Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+pages = {1765–1770},
+numpages = {6},
+keywords = {few-shot learning, opinion mining, sentiment analysis},
+location = {Taipei, Taiwan},
+series = {SIGIR '23}
 }
 ```
 
-Note that the complete citation format will be announced once our paper is published in the SIGIR 2023 conference proceedings.
 
 ## Any Questions?
 
