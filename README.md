@@ -1,6 +1,6 @@
 # FS-ABSA: A Simple yet Effective Framework for Few-Shot Aspect-Based Sentiment Analisys 
 
-[Paper](https://dl.acm.org/doi/10.1145/3539618.3591940)  [Paper Summary in Kudos](https://www.growkudos.com/publications/10.1145%25252F3539618.3591940/reader)  [Poster](https://sinclaircoder.github.io/resource/asset/SIGIR2023-srp3530-FSABSA-poster.pdf)  [5 Mins Presentation Video](https://sinclaircoder.github.io/resource/asset/SIGIR2023-srp3530-FSABSA-5min-video.mp4)
+[[Paper]](https://dl.acm.org/doi/10.1145/3539618.3591940) &nbsp; [[Paper Summary in Kudos]](https://www.growkudos.com/publications/10.1145%25252F3539618.3591940/reader) &nbsp; [[Poster]](https://sinclaircoder.github.io/resource/asset/SIGIR2023-srp3530-FSABSA-poster.pdf) &nbsp;  [[5 Mins Presentation Video]](https://sinclaircoder.github.io/resource/asset/SIGIR2023-srp3530-FSABSA-5min-video.mp4)
 
 ## Quick links
 
