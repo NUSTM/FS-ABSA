@@ -1,6 +1,12 @@
 # FS-ABSA: A Simple yet Effective Framework for Few-Shot Aspect-Based Sentiment Analysis
 
-[[Paper]](https://dl.acm.org/doi/10.1145/3539618.3591940) &nbsp;  [[Homepage on PaperWithCode]](https://paperswithcode.com/paper/a-simple-yet-effective-framework-for-few-shot) &nbsp;   [[Paper Summary in Kudos]](https://www.growkudos.com/publications/10.1145%25252F3539618.3591940/reader) &nbsp; [[Poster]](https://sinclaircoder.github.io/resource/asset/SIGIR2023-srp3530-FSABSA-poster.pdf) &nbsp;  [[5 Mins Presentation Video]](https://sinclaircoder.github.io/resource/asset/SIGIR2023-srp3530-FSABSA-5min-video.mp4)
+<i>Zengzhi Wang, Qiming Xie, Rui Xia</i>
+
+<i>Nanjing University of Science and Technology, China</i>
+
+
+
+📄 [[Paper]](https://dl.acm.org/doi/10.1145/3539618.3591940) &nbsp; ☕ [[Homepage on PaperWithCode]](https://paperswithcode.com/paper/a-simple-yet-effective-framework-for-few-shot) &nbsp;  🍟 [[Paper Summary in Kudos]](https://www.growkudos.com/publications/10.1145%25252F3539618.3591940/reader) &nbsp; 📃 [[Poster]](https://sinclaircoder.github.io/resource/asset/SIGIR2023-srp3530-FSABSA-poster.pdf) &nbsp; 🎥 [[5 Mins Presentation Video]](https://sinclaircoder.github.io/resource/asset/SIGIR2023-srp3530-FSABSA-5min-video.mp4)
 
 	
 
@@ -18,7 +24,7 @@
   
 ******************Updates******************
 
-- 2023/4/24: We upload the domain-adaptive pre-training models ([restaurant-t5-base](https://huggingface.co/NUSTM/restaurant-t5-base), [laptop-t5-base](https://huggingface.co/NUSTM/laptop-t5-base), [dutch-restaurant-mt5-small](https://huggingface.co/NUSTM/dutch-restaurant-mt5-small) and [french-restaurant-mt5-small](https://huggingface.co/NUSTM/french-restaurant-mt5-small)) to huggingface.
+- 2023/4/24: We upload the domain-adaptive pre-training models (🤗[restaurant-t5-base](https://huggingface.co/NUSTM/restaurant-t5-base), 🤗[laptop-t5-base](https://huggingface.co/NUSTM/laptop-t5-base), 🤗[dutch-restaurant-mt5-small](https://huggingface.co/NUSTM/dutch-restaurant-mt5-small) and 🤗[french-restaurant-mt5-small](https://huggingface.co/NUSTM/french-restaurant-mt5-small)) to 🤗 huggingface.
 
 
 
